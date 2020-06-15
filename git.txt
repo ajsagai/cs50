@@ -1,0 +1,9 @@
+
+
+cd /projects
+git clone https://github.com/ajsagai/cs50.git
+git add hello.html
+git config --global user.email "ajsagai@yahoo.com"
+git config --global user.name "ajsagai"
+git commit -m "My first git upload"
+git status
