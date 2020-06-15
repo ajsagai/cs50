@@ -1,0 +1,17 @@
+HTML
+
+Headings: <h1>... </h1>
+
+Lists:
+Unordered list
+<ul>
+    <li>... </li>
+</ul>
+
+Ordered list
+<ol>
+    <li>...</li>
+</ol>
+
+Images:
+<img src="cat.jpg" height="200" width="300">
