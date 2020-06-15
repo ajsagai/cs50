@@ -7,3 +7,6 @@ git config --global user.email "ajsagai@yahoo.com"
 git config --global user.name "ajsagai"
 git commit -m "My first git upload"
 git status
+git push
+git pull
+
