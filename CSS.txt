@@ -1,0 +1,35 @@
+HTML
+
+Headings: <h1>... </h1>
+
+Lists:
+Unordered list
+<ul>
+    <li>... </li>
+</ul>
+
+Ordered list
+<ol>
+    <li>...</li>
+</ol>
+
+Images:
+<img src="cat.jpg" height="200" width="300">
+
+Table:
+<table>
+<tr>
+  <th>  </th>
+</tr>
+
+<tr>
+<td>  </td>
+
+</tr>
+</table>
+
+Form/Input:
+<form>
+  <input type="text" placeholder="Full name" name="name" >
+  <button>....</button>
+</form>
